@@ -60,10 +60,3 @@ To pull the Docker image from the registry and run it:
    ```sh
    docker run -p 5000:5000 <your-registry-username>/flask-hello-world:latest
    ```
-
-## Conclusion
-
-You have successfully built, pushed, and pulled a Docker image for the Flask "Hello, World!" application. If you have any questions or need further assistance, feel free to reach out.
-```
-
-Feel free to replace the placeholders `<repository-url>` and `<your-registry-username>` with your actual repository URL and Docker registry username. Let me know if you need any more help!
