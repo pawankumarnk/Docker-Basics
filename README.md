@@ -1,4 +1,3 @@
-```markdown
 # Flask Hello World Application
 
 This is a simple Flask "Hello, World!" application. This guide will help you build a Docker image for the application and push it to a Docker registry.
