@@ -11,7 +11,7 @@ This is a simple Flask "Hello, World!" application. This guide will help you bui
 
 1. **Clone the repository**:
    ```sh
-   git clone [<repository-url>](https://github.com/pawankumarnk/Docker-Basics.git) -b python-code-deployment
+   git clone https://github.com/pawankumarnk/Docker-Basics.git -b python-code-deployment
    cd docker-basics
    ```
 
