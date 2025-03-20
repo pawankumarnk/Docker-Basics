@@ -4,7 +4,7 @@ This is a simple Flask "Hello, World!" application. This guide will help you bui
 
 ## Prerequisites
 
-- Docker installed on your machine
+- Docker installed on your machine. Refer the official site for [installation document](https://docs.docker.com/engine/install/).
 - Access to a Docker registry (e.g., Docker Hub, AWS ECR, Google Container Registry)
 
 ## Building the Docker Image
